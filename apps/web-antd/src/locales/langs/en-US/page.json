@@ -3,12 +3,17 @@
     "login": "Login",
     "register": "Register",
     "codeLogin": "Code Login",
-    "qrcodeLogin": "Qr Code Login",
+    "qrcodeLogin": "QR Code Login",
     "forgetPassword": "Forget Password"
   },
   "dashboard": {
     "title": "Dashboard",
     "analytics": "Analytics",
     "workspace": "Workspace"
+  },
+  "bogus": {
+    "title": "Bogus Data",
+    "single": "Single Field Generation",
+    "batch": "Batch Data Generation"
   }
 }

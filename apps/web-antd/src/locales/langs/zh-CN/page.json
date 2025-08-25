@@ -10,5 +10,10 @@
     "title": "概览",
     "analytics": "分析页",
     "workspace": "工作台"
+  },
+  "bogus": {
+    "title": "虚拟数据",
+    "single": "单一字段生成",
+    "batch": "批量数据生成"
   }
 }
